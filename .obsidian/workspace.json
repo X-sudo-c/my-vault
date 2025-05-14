@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "a54df934dcb23d3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c251bdd0b3dcd44f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb756115ee2bfc23",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3bd75a25ae8a0e23",
+    "type": "split",
+    "children": [
+      {
+        "id": "451c810c5dd1f770",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9ee661e13c5473e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a922c07183f4b40a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3c5970c9c8381dc4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c3db16abdccaaba2",
+    "type": "split",
+    "children": [
+      {
+        "id": "70cb8fdea039b575",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd615100d276a3ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "fde9153c96f8881e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b464fd131103fed6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d731c17f23ca73df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "eb756115ee2bfc23",
+  "lastOpenFiles": [
+    "Beacon Power services.md",
+    "badisa@bpsafrica.com.md",
+    "test-45-caims-staging.bpsafrica.com.md",
+    "caims.azurewebsites.net   CAIMS.md",
+    "damilolao@bpsafrica.com.md",
+    "email.md",
+    "michaelb@bpsafrica.com.md",
+    "admin@bpsafrica.com (INACTIVE).md",
+    "otobonge@bpsafrica.com.md",
+    "!6uV9p....md",
+    "ololadea@bpsafrica.com.md",
+    "idaram@bpsafrica.com.md",
+    "olatunjio@bpsafrica.com.md",
+    "tester@bpsafrica.com (INACTIVE).md",
+    "uchechukwun@bpsafrica.com.md",
+    "omotayoi@bpsafrica.com.md",
+    "Oduyemi Olatunji (Quality assurance Analyst).md",
+    "Femi Adesoji (client support manager).md",
+    "PASSWORDS.md",
+    "femia@bpsafrica.com.md",
+    "Microsoft 365.md",
+    "users.md",
+    "another link.md",
+    "active.md",
+    "234234-caims.bpsafrica.com.md",
+    "MICROSOFT AZURE CLOUD.md"
+  ]
+}

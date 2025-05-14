@@ -1,0 +1,1 @@
+full password = !6uV9p#tYw4f#2e
