@@ -1,3 +1,5 @@
+for help on how to compromise use  https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/wordpress.html?highlight=wp-cron#wp-cronphp-dos
+
 Interesting Finding(s):
 
 [+] Headers
@@ -145,3 +147,7 @@ Interesting Finding(s):
 [+] Data Sent: 110.396 KB
 [+] Data Received: 24.467 MB
 [+] Memory used: 286.094 MB
+
+
+
+[[VULNERABILITIES]]

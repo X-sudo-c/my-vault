@@ -1,3 +1,3 @@
 
 [[MICROSOFT AZURE CLOUD]]
-     [[inactive]]    [[active]]:domain   
+     [[Inactive]]    [[Active]]:domain   
