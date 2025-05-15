@@ -1,3 +1,5 @@
+[[Wordpress]]
+ 
  The external WP-Cron seems to be enabled: https://blog.bpsafrica.com/wp-cron.php
  | Found By: Direct Access (Aggressive Detection)
  | Confidence: 60%
