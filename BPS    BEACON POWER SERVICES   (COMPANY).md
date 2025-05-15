@@ -1,5 +1,8 @@
 [[MICROSOFT AZURE CLOUD]]
 
 
+[[HETZNER (CLOUD PROVIDER)]]
+
+[[GOOGLE CLOUD]]
 
  [[another link]]
