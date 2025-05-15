@@ -1,5 +1,4 @@
-[[Wordpress]]
-
+[[VULNERABILITIES]]
 +] XML-RPC seems to be enabled: https://blog.bpsafrica.com/xmlrpc.php
  | Found By: Link Tag (Passive Detection)
  | Confidence: 30%

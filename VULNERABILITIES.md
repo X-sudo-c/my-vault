@@ -3,7 +3,7 @@
 [[WP-Cron (DDOS)]]
 
 
-[[CAIMS vuln]]
+
 
 
 

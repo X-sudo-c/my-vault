@@ -1,3 +1,3 @@
 
 []
-     [[Inactive]]    [[Active]]:domain   
+     [[$ Inactive]]    [[$ Active]]:domain   
