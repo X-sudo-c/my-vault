@@ -1,3 +1,5 @@
+this contains a list of previously owned domains by Beacon power services that arent active anymore 
+
 [[hes.dev.bpsafrica.com]]
 [[adora-billing-ecg.bpsafrica.com	]]
 [[ecg-caims.bpsafrica.com]
